@@ -1,2 +1,3 @@
+token=478d4dfd-5330-49c0-a184-5f02b6bbd59e
 pip install -r requirements.txt
 python main.py
